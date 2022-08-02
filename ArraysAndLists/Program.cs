@@ -30,6 +30,7 @@ namespace ArraysAndLists
              *
              * Try to be creative in your display
              */
+
             //for (int i = 0; i < numbers.Length; i++)
             //{
             //if (numbers[i] % 2 == 0)
@@ -40,6 +41,9 @@ namespace ArraysAndLists
                 //{
                 //odds.Add(numbers[i]);
                 //}
+
+          
+
             
             foreach (var num in numbers)
             {
