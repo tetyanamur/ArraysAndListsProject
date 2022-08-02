@@ -1,5 +1,5 @@
 ﻿using System;
-
+using System.Collections.Generic;
 namespace ArraysAndLists
 {
     class Program
@@ -31,10 +31,15 @@ namespace ArraysAndLists
              * Try to be creative in your display
              */
             //for (int i = 0; i < numbers.Length; i++)
-            //{ if (numbers[i] % 2 == 0)
-               // {evens.Add(numbers[i]);}
+            //{
+            //if (numbers[i] % 2 == 0)
+               // {
+               // evens.Add(numbers[i]);
+               // }
                 //else
-                //{odds.Add(numbers[i]);}
+                //{
+                //odds.Add(numbers[i]);
+                //}
             
             foreach (var num in numbers)
             {
